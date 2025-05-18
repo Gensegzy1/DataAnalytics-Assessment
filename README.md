@@ -1,4 +1,6 @@
 # DataAnalytics-Assessment
+Welcome to my solution for the SQL Proficiency Assessment for the Data Analyst role
+
 ## ✅ Question 1: High-Value Customers with Multiple Products
 ### 🧠 Objective:
 - Identify customers who have:
