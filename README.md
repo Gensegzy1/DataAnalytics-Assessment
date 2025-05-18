@@ -1,5 +1,5 @@
 # DataAnalytics-Assessment
-Welcome to my solution for the SQL Proficiency Assessment for the Data Analyst role
+This repository presents my comprehensive solutions to the SQL Proficiency Assessment for the Data Analyst role. Each solution is crafted to demonstrate proficiency in SQL querying, data analysis, and problem-solving skills.
 
 ## ✅ Question 1: High-Value Customers with Multiple Products
 ### 🧠 Objective:
